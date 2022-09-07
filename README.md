@@ -11,6 +11,7 @@ A demo project for me to try and play some libraries
 - emotion for styling
 - react query for data fetching
 - jotai for state management
+- formki for form management
 
 ## Backend
 [demo-shopping-list-backend](https://github.com/IsaacOrzDev/demo-shopping-list-backend)
