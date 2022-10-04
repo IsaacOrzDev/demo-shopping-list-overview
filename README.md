@@ -23,4 +23,4 @@ A demo project for me to try and play some libraries
 - Typescript
 - Nest.js
 - Prisma as ORM
-- sqlite as database for development
+- mysql as database
