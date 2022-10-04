@@ -23,4 +23,4 @@ A demo project for me to try and play some libraries
 - Typescript
 - Nest.js
 - Prisma as ORM
-- mysql as database
+- Mysql as database
